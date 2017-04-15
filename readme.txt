@@ -4,3 +4,8 @@
 
 
 这是alpha分支的内容。
+
+这是master分支的内容。
+
+
+master分支所有修改alpha分支不知道。对不对？
